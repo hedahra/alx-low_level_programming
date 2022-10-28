@@ -1,6 +1,6 @@
-#include <main.h>
+#include "main."
 
-/*
+/**
  * print_number - Prints any integer with putchar
  * @n: Number to prints
  *
